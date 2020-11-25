@@ -3,129 +3,130 @@ layout: home
 title: TC39 Code of Conduct
 ---
 
-## Introduction
+## Введение
 
-Like the technical community as a whole, TC39 is made up of a mixture of professionals and volunteers from all over the world. To ensure a fair and balanced standards process, to avoid communication issues and unhappiness, and to promote inclusiveness, we have a few ground rules that we ask people to adhere to.
+Как и всё техническое сообщество, TC39 состоит из профессионалов и добровольцев со всего мира. Чтобы обеспечить справедливый и сбалансированный процесс стандартов, избежать проблем с общением и недовольства, а также способствовать инклюзивности, у нас есть несколько основных правил, которых мы просим людей придерживаться.
 
-This isn’t an exhaustive list of things that you can’t do. Rather, take it in the spirit in which it’s intended a guide to make it easier to enrich all of us and the technical communities in which we participate and empower others to speak.
+Это далеко не полный список вещей, которые Вы не следует делать. Скорее воспринимайте его в как руководство, чтобы упростить обогащение всех нас и технических сообществ, в которых мы участвуем, и дать другим возможность высказаться.
 
-This Code of Conduct is enforced within all spaces managed by TC39. This includes IRC channels moderated by TC39, mailing lists such as esdiscuss, issue trackers on projects hosted by TC39, and TC39 events and meetings.
+Нормы поведения применяется для всех ресурсов и событий TC39. Сюда входят каналы IRC, модерируемые TC39, списки рассылки, такие как esdiscuss, трекеры проеков TC39, а также мероприятия и встречи TC39.
 
-If you believe someone is violating the Code of Conduct, we ask that you report it by emailing [tc39-conduct-reports@googlegroups.com][tc39-conduct]. For more details, please see our [Reporting Guidelines][].
+Если вы считаете, что кто-то нарушает Кодекс поведения, мы просим вас сообщить об этом по электронной почте [tc39-conduct-reports@googlegroups.com][tc39-conduct]. Дополнительные сведения смотрите в разделе [Рекомендации по оформлению жалоб][Reporting Guidelines].
 
-### Be respectful
+### Будьте уважительными
 
-Respect is a fundamental value of the standardization work. Not all of us will agree all the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It's important to remember that a community where people feel uncomfortable or threatened is not a productive one. Members of the TC39 community should be respectful when dealing with other members as well as with people outside the TC39 community.
+Уважение - фундаментальная ценность работы по стандартизации. Не все из нас всегда будут соглашаться, но несогласие - не оправдание плохому поведению и плохим манерам. Мы все можем время от времени испытывать некоторое разочарование, но мы не можем позволить этому разочарованию превратиться в переход на личности. Важно помнить, что сообщество, в котором люди чувствуют себя некомфортно или угрожают, не является продуктивным. Члены сообщества TC39 должны уважительно относиться к другим участникам, а также к людям за пределами сообщества TC39.
 
-### Be friendly and patient
+### Будьте дружелюбны и терпеливы
 
-We understand that everyone has different levels of experience or knowledge in many diverse fields, be it technical or nontechnical in nature. We also have areas of knowledge we are eager to expand. We want to be a community where people can not only contribute, but feel comfortable to ask questions as well and learn along the way. When correcting another participant, respond with patience and try to keep it polite and civil. Remember that we all were newbies at one point.
+Мы понимаем, что у всех разный уровень опыта или знаний в различных областях, технических или нетехнических по своей природе. У нас также есть области знаний, которые мы хотим расширить. Мы хотим быть сообществом, в котором люди могут не только вносить свой вклад, но и чувствовать себя комфортно, задавая вопросы и попутно обучаясь. Исправляя другого участника, проявляйте терпение и старайтесь сохранять вежливость. Помните, что все мы когда-то были новичками.
 
-### Be inclusive
+### Будьте инклюзивны
 
-We strive to be a community that welcomes and supports people of all backgrounds and identities. This includes, but is not limited to, members of any race, ethnicity, culture, national origin, color, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.
+Мы стремимся быть сообществом, которое приветствует и поддерживает людей любого происхождения и идентичности. Это включает, помимо прочего, представителей любой расы, этнической принадлежности, культуры, национального происхождения, цвета кожи, иммиграционного статуса, социального и экономического класса, уровня образования, пола, сексуальной ориентации, гендерной идентичности и выражения, возраста, размера, семейного положения, политических убеждений, религий, ментальных и физических способностей.
 
-### Be considerate
+### Будьте внимательными
 
-Your work will be used by other people, and you in turn will depend on the work of others. Any decision you make will affect users and colleagues, and you should take those consequences into account when making decisions. Remember that we're a world-wide community, so you might not be communicating in someone else's primary language.
+Ваша работа будет использоваться другими людьми, а вы, в свою очередь, будете зависеть от работы других. Любое принятое вами решение повлияет на пользователей и коллег, и вы должны учитывать эти последствия при принятии решений. Помните, что мы — международное сообщество, <?>.
 
-### Be careful in the words that you choose
+### Будьте осторожны в словах, которые вы выбираете
 
-We are a community of professionals, and we conduct ourselves professionally. Be kind to others. Do not insult or put down other participants. Harassment and other exclusionary behavior aren't acceptable. This includes, but is not limited to:
+Мы - сообщество профессионалов, и мы ведем себя профессионально. Будьте добры к другим. Не оскорбляйте и не унижайте других участников. Оскорбления и другое неподобающее<?> поведение недопустимы. Это включает (но не ограничивается):
 
-* Violent threats or language directed against another person.
-* Discriminatory jokes and language.
-* Posting sexually explicit or violent material.
-* Posting (or threatening to post) other people's personally identifying information ("doxing").
-* Personal insults, especially those using racist or sexist terms.
-* Unwelcome sexual attention.
-* Advocating for, or encouraging, any of the above behavior.
-* Repeated harassment of others. In general, if someone asks you to stop, then stop.
+* Жестокие угрозы или выражения, направленные против другого человека.
+* Дискриминационные шутки и выражения.
+* Публикация материалов сексуального или агрессивного характера.
+* Размещение (или угроза публикации) информации, позволяющей установить личность других людей («доксинг»).
+* Личные оскорбления, особенно с использованием расистских или сексистских терминов.
+* Нежелательное сексуальное внимание.
+* Пропаганда или поощрение любого из вышеуказанных действий.
+* Неоднократные притеснения других. В целом, если кто-то просит вас остановиться, то остановитесь.
 
-### When we disagree, try to understand why
+### Когда мы не согласны, попытайтесь понять, почему
 
-Disagreements, both social and technical, happen all the time. It is important that we resolve disagreements and differing views constructively. Remember that we’re different. There is strength in having a varied community with people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that it is human to err and blaming each other doesn’t get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.
+Разногласия, как социальные, так и технические, случаются постоянно. Важно конструктивно разрешать разногласия и расхождения во взглядах. Помните, что мы разные. Сила в том, чтобы иметь разнообразное сообщество, состоящее из людей самого разного происхождения. У разных людей разные взгляды на проблемы. Неспособность понять, почему кто-то придерживается определенной точки зрения, не означает, что он ошибается. Не забывайте, что человеку свойственно ошибаться, и обвинение друг друга ни к чему не приведет. Вместо этого сосредоточьтесь на помощи в решении проблем и извлечении уроков из ошибок.
 
-(Original text courtesy of [JSFoundation][], [Speak Up! project][], and [Django Project][].)
+(Оригинальный текст любезно предоставлен [JSFoundation][], [Speak Up! project][] и [Django Project][].)
 
-### Questions?
+### Если у Вас возникли вопросы
 
-If you have questions, please see the [FAQ][]. If that doesn't answer your questions, feel free to [email us][tc39-conduct].
-
----
-
-
-## Reporting Guidelines
-
-If you believe someone is violating the Code of Conduct, we ask that you report it by emailing [tc39-conduct-reports@googlegroups.com][tc39-conduct]. All reports will be kept confidential. Only members of the [Code of Conduct Committee][], and possibly the Ecma ExeCom, will receive the reports. No identity will be made public before the individuals concerned have agreed to it.
-
-If the act is ongoing, the Chair, Vice-Chair or any member of the Code of Conduct Committee should take immediate measures to stop it if possible, and to gather the information described below.
-
-In your report please include:
-
-*   Your contact info (so we can get in touch with you if we need to follow up).
-*   Names (real, nicknames, or pseudonyms) of any individuals involved. If there were other witnesses besides you, please try to include them as well.
-*   When and where the incident occurred. Please be as specific as possible.
-*   Your account of what occurred. If there is a publicly available record (e.g. a mailing list archive or a public IRC logger) please include a link. Screenshots can be useful in the case something is edited or deleted before action is taken.
-*   Any extra context you believe existed for the incident.
-*   If you believe this incident is ongoing.
-*   Any other information you believe we should have.
-
-### What happens after you file a report?
-
-Reports will receive urgent and immediate attention from the Code of Conduct Committee. Please refer to the [Enforcement Manual][] for the complete information on how reports will be processed.
-
-### Appealing
-
-To appeal a decision of the Code of Conduct Committee, contact the [Ecma Secretariat][] which will transfer the matter to the Ecma ExeCom. 
+Если у вас есть вопросы, смотрите [FAQ][]. Если Вы не нашли в нём не ответ на Ваши вопросы, не стесняйтесь [напишите нам] [tc39-conduct].
 
 ---
 
 
-## Enforcement Manual
+## Рекомендации по оформлению жалоб
 
-All responses to reports of conduct violations will be managed by a [Code of Conduct Committee][] (“the Committee”).
+Если Вы считаете, что кто-то нарушает Кодекс поведения, мы просим Вас сообщить об этом по электронной почте [tc39-conduct-reports@googlegroups.com][tc39-conduct]. Все отчеты останутся конфиденциальными. Отчеты будут получать только члены [комитета по нормам поведения][Code of Conduct Committee] и, возможно, исполнительного комитета Ecma. Личности не будут разглашаться до тех пор, пока соответствующие лица не согласятся на это.
 
-TC39 will establish this Committee, comprised of at least three members. One member will be designated Chair of the Committee and will be responsible for all reports back to TC39. TC39 will review membership on a regular basis.
+Если нежелательное действие продолжается, председатель, заместитель председателя или любой другой член комитета по нормам поведения должны принять немедленные меры, чтобы остановить его, если это возможно, и собрать информацию, описанную ниже.
 
-### How the Committee Will Respond to Reports
+Пожалуйста включите в свой отчёт следующую информацию:
 
-When a report is sent to the Committee they will reply to the report to confirm receipt within 24 hours.
+* Ваша контактная информация (чтобы мы могли связаться с Вами, если нам понадобится дополнительная информация).
+* Имена (настоящие, никнеймы или псевдонимы) всех вовлеченных лиц. Если помимо Вас были и другие свидетели, постарайтесь также включить их.
+* Когда и где произошел инцидент. Пожалуйста, будьте как можно более конкретными.
+* Ваш отчет о том, что произошло. Если есть общедоступная запись (например, архив списка рассылки или общедоступный лог IRC), пожалуйста, приложите ссылку. Снимки экрана могут быть полезны в случае, если что-то редактируется или удаляется до того, как будет предпринято реакция на него.
+* Любой дополнительный контекст, который, по вашему мнению, имеет отношение к инциденту.
+* Если вы считаете, что этот инцидент продолжается, то также напишите об этом.
+* Любая другая информация, которая, по Вашему мнению, у нас должна быть.
 
-See the [Reporting Guidelines][] for details of what reports should contain. If a report doesn’t contain enough information, the Committee will strive to obtain all relevant data before acting. The Commitee is empowered to act on the TC39’s behalf in contacting any individuals involved to get a more complete account of events.
+### Что происходит после того, как вы отправите жалобу?
 
-The Committee will then review the incident and determine, to the best of their ability:
+Жалобы будут безотлагательно и незамедлительно рассматриваться комитетом по нормам поведения. Пожалуйста, обратитесь к [руководству по исполнению][Enforcement Manual] для получения полной информации о том, как будут обрабатываться отчеты.
 
-*   What happened.
-*   Whether this event constitutes a Code of Conduct violation.
-*   Who, if anyone, was involved in the violation.
-*   Whether this is an ongoing situation.
 
-This information will be collected in writing, and whenever possible the Committee’s deliberations will be recorded and retained (e.g. IRC transcripts, email discussions, or recorded voice conversations).
+### Обжалование
 
-The Committee should aim to have a resolution agreed very rapidly; if not agreed within a week, it will inform the parties of the planned date.
-
-### Resolution
-
-The Committee must agree on a resolution by consensus. If the Committee cannot reach consensus, the Committee will turn the matter over to the Ecma ExeCom for resolution.
-
-Responses will be determined by the Committee on the basis of the information gathered and of the potential consequences. It may include taking no further action, issuing a reprimand (private or public), asking for an apology (private or public), or contacting the company that the individual belongs to. It could even result in a temporary or permanent exclusion from some of the TC39 working spaces such as mailing lists or IRC. For any contemplated action other than a reprimand or an apology, the Committee shall inform the Ecma ExeCom. Any exclusion needs to follow the process described in the Ecma bylaws.
-
-Such actions taken by the Committee will be reported as part of the TC39 report to the ExeCom.
-
-The Committee will never publicly discuss the issue; all public statements, if needed, will be made by the TC39 Chair and/or the Ecma Secretariat.
-
-### Conflicts of Interest
-
-In the event of any conflict of interest - i.e., members who are personally connected to a situation, a Committee member must immediately notify the other members, and recuse themselves. 
+Чтобы обжаловать решение комитета по нормам поведения, обратитесь в [Секретариат Ecma][Ecma Secretariat], который передаст вопрос в исполнительный комитет Ecma.
 
 ---
 
-## Code of Conduct Committee
 
-The Code of Conduct Committee deals with violations in the [TC39 Code of Conduct][].
+## Руководство по исполнению
 
-Committee Members:
+Все ответы на сообщения о нарушениях норм поведения будут обрабатываться [комитетом по нормам поведения][Code of Conduct Committee] («Комитетом»).
+
+TC39 учредит этот Комитет, состоящий как минимум из трёх членов. Один член будет назначен председателем комитета и будет отвечать за все отчёты, возвращаемые TC39. TC39 будет регулярно пересматривать членство.
+
+### Как Комитет будет отвечать на жалобы
+
+Когда жалоба будет отправлена Комитету, они подтвердят получение в течение 24 часов.
+
+Смотрите [Рекомендации по оформлению жалоб][Reporting Guidelines] для получения подробной информации о том, что должно содержаться в жалобе. Если отчет не содержит достаточно информации, Комитет будет стремиться получить все соответствующие данные, прежде чем действовать. Комитет уполномочен действовать от имени TC39, связываясь с любыми вовлечёнными лицами, чтобы получить более полную информацию о событиях.
+
+Затем Комитет рассмотрит инцидент, и в меру своих возможностей определит:
+
+*   Что произошло.
+*   Является ли данное событие нарушением Кодекса поведения.
+*   Кто причастен к нарушению (если такие лица установлены).
+*   Является ли это продолжающейся ситуацией.
+
+Эта информация будет собираться в письменной форме, и, когда это возможно, обсуждения в Комитете будут записываться и сохраняться (например, стенограммы IRC, обсуждения по электронной почте или записи голосовых разговоров).
+
+Комитет должен стремиться к очень быстрому согласованию решения по жалобе; если решение не будет согласовано в течение недели, он проинформирует стороны о планируемой дате выноса решения.
+
+### Решение по жалобе
+
+Комитет должен прийти к решению консенсусом. Если Комитет не может прийти к консенсусу, он передаст вопрос исполнительному комитету Ecma для разрешения этого вопроса.
+
+Решения будут определяться Комитетом на основе собранной информации и возможных последствий. Сюда может входить отказ от дальнейших действий, выговор (частный или публичный), запрос извинений (частный или публичный) или обращение в компанию, сотрудником которой является данное лицо. Это может даже привести к временному или постоянному исключению из некоторых рабочих пространств TC39, таких как списки рассылки или IRC. О любых предполагаемых действиях, кроме выговора или извинений, Комитет должен информировать исполнительный комитет Ecma. Любое исключение из участия в работе TC39 должно выполняться в соответствии с процедурой, описанной в уставе Ecma.
+
+О таких действиях, предпринятых Комитетом, будет сообщено исполнительным комитетом в отчёте TC39.
+
+Комитет никогда не будет публично обсуждать этот вопрос; все публичные заявления, если необходимо, будут сделаны председателем TC39 и/или секретариатом Ecma.
+
+### Конфликты интересов
+
+В случае любого конфликта интересов, член Комитета должен немедленно уведомить других членов и заявить самоотвод.
+
+---
+
+## Комитет по нормам поведения
+
+Комитет по Кодексу поведения рассматривает нарушения [Кодекса поведения TC39][TC39 Code of Conduct].
+
+Состав комитета:
 
 * Brian Terlson (brian.terlson@microsoft.com)
 * Jory Burson (jory@bocoup.com)
@@ -136,70 +137,70 @@ Committee Members:
 * Keith Cirkel (keithamus@github.com)
 * Yulia Startsev (yulia@mozilla.com)
 
-You can contact these people collectively at [tc39-conduct][] or individually at their email address listed above. For more details please see the [Reporting Guidelines][].
+Вы можете связаться со всеми этими людьми по адресу [tc39-conduct][] или индивидуально по их электронным адресам, указанным выше. Дополнительные сведения смотрите в [Рекомендации по оформлению жалоб][].
 
 ---
 
-## Frequently Asked Questions
+## Часто задаваемые вопросы
 
-This FAQ attempts to address common questions and concerns around the [TC39 Code of Conduct][]. If you still have questions after reading it, please feel free to [contact us][tc39-conduct].
+Данный раздел содержит ответы на общие вопросы, связанные с [Кодексом поведения TC39][TC39 Code of Conduct]. Если у вас остались вопросы после прочтения, пожалуйста, [свяжитесь с нами][tc39-conduct].
 
-### Why have you adopted a Code of Conduct?
+### Зачем нужен Кодекс поведения?
 
-We think the JS community is awesome. If you're familiar with TC39, you'll probably notice we are making progressive efforts to promote and improve diversity and inclusion to match the Code.
+Мы думаем, что JS сообщество потрясающее. Если вы знакомы с TC39, вы, вероятно, заметите, что мы прилагаем прогрессивные усилия для продвижения и улучшения разнообразия и инклюзивности в соответствии с Кодексом.
 
-We know that the TC39 community is transparent, friendly, and welcoming. We want to make sure everyone else knows it too.
+Мы знаем, что сообщество TC39 прозрачно, дружелюбно и приветливо. Мы хотим, чтобы об этом знали и все остальные.
 
-### What does it mean to "adopt" a Code of Conduct?
+### Что значит «принять» Кодекс поведения?
 
-For the most part, we don't think it means large changes. We think that the text does a really good job describing the way TC39 already conducts itself. We expect that most people will simply continue to behave in the awesome way they have for years.
+По большей части мы не думаем, что это подразумевает какие-либо серьёзные изменения. Мы думаем, что текст действительно хорошо описывает то, как TC39 уже ведет себя. Мы ожидаем, что большинство людей просто продолжат вести себя отлично, как они это делали годами.
 
-However, we do expect that people will abide by the spirit and words of the CoC when in "official" TC39 spaces. This code has been adopted by TC39. That means that it'll apply both in community spaces _and_ at TC39 events.
+Однако мы действительно ожидаем, что люди будут придерживаться духа и слов кодекса, находясь в «официальных» местах TC39. Этот код был принят TC39. Это означает, что он будет применяться как в публичных местах, так и на мероприятиях TC39.
 
-In practice, this means any TC39 IRC channels, bug tracking and code review tools, and "official" TC39 events.
+На практике это означает любые IRC-каналы TC39, трекеры, инструментыи рецензирования кода, а также «официальные» события TC39.
 
-### What about TC39 events?
+### Что насчет событий TC39?
 
-This Code of Conduct also covers all TC39 events since it is all about how we interact as a community. It's about saying that the TC39 community will be open, friendly, and welcoming. The core issue is about ensuring the conversations we have are productive and inviting for all.
+Этот Кодекс поведения также охватывает все мероприятия TC39, поскольку он касается того, как мы взаимодействуем как сообщество. Речь идет о том, что сообщество TC39 будет открытым, дружелюбным и гостеприимным. Основная задача заключается в том, чтобы наши беседы были продуктивными и привлекательными для всех.
 
-Real-life events, however, require a bit more care. TC39 wants to be sure that all of its events have policies and procedures in place for handling harassment. It's especially important to us that real-life events take steps to protect the physical and mental security of their participants.
+Однако события из реальной жизни требуют немного большей осторожности. TC39 хочет быть уверенным, что на всех его мероприятиях действуют политики и процедуры по борьбе с харассментом. Для нас особенно важно, чтобы в реальных событиях принимались меры для защиты физической и психической безопасности участников.
 
-### What happens if someone violates the Code of Conduct?
+### Что произойдет, если кто-то нарушит Кодекс поведения?
 
-Our intent is that anyone in the community can stand up for this Code, and direct people who are unaware of this document. If that doesn't work, or if you need more help, you can contact [tc39-conduct-reports@googlegroups.com][tc39-conduct]. For more details please see our [Reporting Guidelines][].
+Мы стремимся к тому, чтобы любой член сообщества мог отстаивать этот Кодекс и направлять людей, не знакомых с этим документом<?>. Если это не сработает или вам нужна дополнительная помощь, вы можете связаться с [tc39-conduct-reports@googlegroups.com][tc39-conduct]. Для получения дополнительных сведений смотрите наши [рекомендации по оформлению жалоб[Reporting Guidelines].
 
-### Why do we need a Code of Conduct? Everyone knows not to be a jerk.
+### Зачем нужен Кодекс поведения? Все знают, что не нужно быть придурком.
 
-Sadly, not everyone knows this.
+К сожалению, не все это знают.
 
-However, even if everyone were kind, compassionate, and familiar with codes of conduct, it would still be incumbent upon our community to publish our own. Maintaining a Code of Conduct forces us to consider and articulate what kind of community we want to be, and serves as a constant reminder to put our best foot forward. But most importantly, it serves as a signpost to people looking to join our community that we feel these values are important.
+Однако, даже если бы все были добрыми, сострадательными и знакомыми с кодексами поведения, наше сообщество все равно обязалось бы опубликовать свой собственный кодекс. Соблюдение Кодекса поведения заставляет нас задуматься и сформулировать, каким сообществом мы хотим быть, и служит постоянным напоминанием о том, что мы должны делать для этого всё возможное. Но что более важно, это служит знаком для людей, желающих присоединиться к нашему сообществу, о том, что мы считаем эти ценности важными.
 
-### This is censorship! I have the right to say whatever I want!
+### Это цензура! Я имею право говорить все, что хочу!
 
-You do -- in _your_ space. If you'd like to hang out in _our_ spaces (as clarified above), we have some simple guidelines to follow. If you want to, for example, form a group where TC39 proposals are discussed using language inappropriate for general channels then nobody's stopping you. We respect your right to establish whatever codes of conduct you want in the spaces that belong to you. Please honor this Code of Conduct in our spaces.
+Имеете, в _вашем личном_ пространстве. Если вы хотите проводить время в _наших_ пространствах<?> (как указано выше), у нас есть несколько простых рекомендаций, которым нужно следовать. Если вы хотите, например, сформировать группу, в которой предложения TC39 обсуждаются с использованием языка, не подходящего для общих каналов, тогда вам никто не мешает. Мы уважаем ваше право устанавливать любые кодексы поведения в принадлежащих вам помещениях. Пожалуйста, соблюдайте этот Кодекс поведения на наших площадках.
 
-## References
+## Сноски
 
-### Ecma Bylaws Article 5.1 (extract):
+### Статья 5.1 устава Ecma (выдержка):
 
 > Membership of a company shall be terminated in the following cases:
 > ...
 > - by expulsion for violation of Bylaws and Rules or for any other conduct prejudicial to the interest and correct functioning of the Association.
 
-### Ecma Bylaws, Articles 5.3, 5.4 5.5:
+### Статьи 5.3, 5.4 5.5 устава Ecma:
 
-> 5.3 Any proposal to expel an Ecma member shall be backed by at least one-fifth of all the ordinary members. The proposal to expel shall be on the agenda for the General Assembly at which is it going to be discussed so as to give the member the opportunity to present its case.
-> 5.4 A two-thirds majority of all the ordinary members is necessary to expel an Ecma member. Such expulsion will become effective 15 days after notification by registered mail.
-> 5.5 An Ecma member which had been expelled can only be re-admitted by the General Assembly with a two-thirds majority of all ordinary members.
+> 5.3 Любое предложение об исключении члена Ecma должно быть поддержано не менее одной пятой всех обычных членов. Предложение об исключении должно быть в повестке дня Генеральной ассамблеи, на которой оно будет обсуждаться, чтобы дать члену возможность изложить свою позицию.
+> 5.4 Для исключения члена Ecma необходимо большинство в две трети всех ordinary members<?>. Такое исключение вступает в силу через 15 дней после уведомления заказным письмом.
+> 5.5 Член Ecma, который был исключен, может быть повторно принят только Генеральной ассамблеей с большинством в две трети голосов всех ordinary members<?>.
 
-TC39 has specified further the terms of “prejudicial conduct” and has expanded on how to deal with incidents that can lead to it, in the TC39 Code of Conduct below. Other committees may want to have similar codes.
+TC39 уточнил термины «предвзятого поведения» и подробно рассказал о том, как поступать с инцидентами, которые могут к нему привести, в Кодексе поведения TC39 ниже. Другие комитеты могут захотеть иметь аналогичные кодtrcs.
 
 
 [TC39 Code of Conduct]: /code-of-conduct/
-[Code of Conduct Committee]: #code-of-conduct-committee
-[Enforcement Manual]: #enforcement-manual
-[Reporting Guidelines]: #reporting-guidelines
-[FAQ]: #frequently-asked-questions
+[Code of Conduct Committee]: #Комитет-по-нормам-поведения
+[Enforcement Manual]: #Руководство-по-исполнению
+[Reporting Guidelines]: #Рекомендации-по-оформлению-жалоб
+[FAQ]: #Часто-задаваемые-вопросы
 [Ecma Secretariat]: mailto:istvan@ecma-international.com
 [tc39-conduct]: mailto:tc39-conduct-reports@googlegroups.com
 [Speak Up! project]: http://speakup.io/coc.html
